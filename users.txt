@@ -1,0 +1,6 @@
+parent@gmail.com
+teststudent@gmail.com
+testteacher@gmail.com
+admin@gmail.com
+
+all passwords: 12345678
